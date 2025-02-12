@@ -1,12 +1,26 @@
-# AWS-Cloud-Practitioner-Guia-de-Estudos
-Materiais Auxiliares para Preparação da Certificação AWS IAPractitioner
+BEM-VINDO!
+BIEN VENIDO!
+WELLCOME!
+---------------------------------------------------------------
+O exame AWS Certified AI Practitioner (AIF-C01) destina-se a pessoas capazes de demonstrar com eficácia conhecimentos gerais de IA/ML, tecnologias de IA
+generativa, além de serviços e ferramentas correspondentes da AWS, independentemente de um cargo específico.
 
+O link abaixo apresenta o GUIA DE ESTUDOS para que você seja capaz de conseguir mais essa certificação
+https://d1.awsstatic.com/pt_BR/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf
+
+
+-------------------------------------------------------------------------------------
+Materiais Auxiliares para Preparação da Certificação AWS IA Practitioner (AIF-C01)
+-------------------------------------------------------------------------------------
+
+=> Links de simulados e materiais gratuitos para Practitioner:
 
 Simulado para o exame AWS Certified AI Practitioner AIF-C01! 
 -----------------------------------------------------------------
 https://simuladoaif.s3.us-east-1.amazonaws.com/index.html
 Créditos: Fabricio Felix
 
+Simulados e materiais pagos para IA Practitioner:
 Cursos UDEMY
 -----------------------------------------------------------------
 Stephanne Maarek 
