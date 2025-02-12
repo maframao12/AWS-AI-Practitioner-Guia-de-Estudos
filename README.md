@@ -4,8 +4,8 @@ Materiais Auxiliares para Preparação da Certificação AWS IAPractitioner
 
 Simulado para o exame AWS Certified AI Practitioner AIF-C01! 
 -----------------------------------------------------------------
-Créditos: Fabricio Felix-
 https://simuladoaif.s3.us-east-1.amazonaws.com/index.html
+Créditos: Fabricio Felix
 
 Cursos UDEMY
 -----------------------------------------------------------------
