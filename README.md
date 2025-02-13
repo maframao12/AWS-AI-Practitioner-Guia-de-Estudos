@@ -21,13 +21,17 @@ Materiais Auxiliares para Preparação da Certificação AWS IA Practitioner (AI
   https://simuladoaif.s3.us-east-1.amazonaws.com/index.html
   Créditos: Fabricio Felix
 
-  DOMINIO2 - Fundamentals of Generative AI
+  Simulado DOMINIO2 - Fundamentals of Generative AI
   -----------------------------------------------------------------
   https://aws.plainenglish.io/aws-certified-ai-practitioner-domain-2-fundamentals-of-generative-ai-b4f78ad5c8d1
 
-  DOMINIO5 - Security, Compliance, and Governance for AI Solutions
+  Simulado DOMINIO5 - Security, Compliance, and Governance for AI Solutions
   -----------------------------------------------------------------
   https://aws.plainenglish.io/aws-certified-ai-practitioner-domain-5-security-compliance-and-governance-for-ai-solutions-c8c484b4ceba
+
+  Estudo - página resumo de AI Practitioner
+  -----------------------------------------------------------------
+  https://zesty-antlion-4f4.notion.site/AI-Practicioner-c6c4fe86c7cf4b8c85cdf2aee57c164d
 
   IA Generativa para Startups: Bootcamp
   Aprofunde seus conhecimentos e aprenda como testar e implementar soluções de inteligência artificial generativa na sua startup com Amazon Bedrock. Reinvente experiências     de usuário, produtos e processos e aprenda as melhores práticas para usar a IA com segurança
