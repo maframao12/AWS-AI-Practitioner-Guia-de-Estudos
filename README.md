@@ -5,7 +5,8 @@ WELLCOME!
 O exame AWS Certified AI Practitioner (AIF-C01) destina-se a pessoas capazes de demonstrar com eficácia conhecimentos gerais de IA/ML, tecnologias de IA
 generativa, além de serviços e ferramentas correspondentes da AWS, independentemente de um cargo específico.
 
-O link abaixo apresenta o GUIA DE ESTUDOS, material direto da AWS, para que você seja capaz de conseguir mais essa certificação
+O link abaixo apresenta o GUIA DE ESTUDOS, material direto da AWS, para que você seja capaz de conseguir mais essa certificação. 
+Uma sugestão: imprima esse documento e à medida que você vai aprendendo o conteúdo, ja marca com o lumicolor! ;)
 https://d1.awsstatic.com/pt_BR/training-and-certification/docs-ai-practitioner/AWS-Certified-AI-Practitioner_Exam-Guide.pdf
 
 
