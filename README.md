@@ -1,6 +1,4 @@
-BEM-VINDO!
-BIEN VENIDO!
-WELLCOME!
+BEM-VINDO! BIEN VENIDO! WELLCOME!
 ---------------------------------------------------------------
 O exame AWS Certified AI Practitioner (AIF-C01) destina-se a pessoas capazes de demonstrar com eficácia conhecimentos gerais de IA/ML, tecnologias de IA
 generativa, além de serviços e ferramentas correspondentes da AWS, independentemente de um cargo específico.
