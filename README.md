@@ -42,6 +42,8 @@ Materiais Auxiliares para Preparação da Certificação AWS IA Practitioner (AI
   -----------------------------------------------------------------
   https://explore.skillbuilder.aws/learn/learning-plans/2193/standard-exam-prep-plan-aws-certified-ai-practitioner-aif-c01
 
+  https://www.examprepper.co/exams
+
 
 < < <  LINKS DE SIMULADOS E MATERIAIS PAGOS PARA AI PRACTITIONER  > > > 
   Cursos UDEMY
@@ -54,4 +56,6 @@ Materiais Auxiliares para Preparação da Certificação AWS IA Practitioner (AI
   
   Ronaldo Verçoza
   https://www.udemy.com/share/10caSR3@D-bQcqPz3sviN7aGbhUx4NFne3BObZrxVogTCNEkj33czao-Q_yvv-l-AhOzs2K6/
+
+
 
